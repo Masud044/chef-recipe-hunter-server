@@ -1,0 +1,128 @@
+ [
+    {
+        
+        "id": 1,
+        "chef_picture": "chef1.jpg",
+        "chef_name": "Chef John Doe",
+        "years_of_experience": 10,
+        "num_recipes": 50,
+        "country": "United States",
+        "recipe_details": {
+            "recipe_name": "Grilled Salmon with Lemon Butter Sauce",
+            "ingredients": [
+                "Salmon fillet",
+                "Lemon",
+                "Butter",
+                "Salt",
+                "Pepper"
+            ],
+            "instructions": "1. Preheat grill. Season salmon fillet with salt and pepper. Grill for 5 minutes on each side. \n2. In a small saucepan, melt butter and squeeze lemon juice. Cook over medium heat until sauce thickens. \n3. Pour the lemon butter sauce over the grilled salmon and serve hot."
+        }
+    },
+    {
+       
+        "id": 2,
+        "chef_picture": "chef2.jpg",
+        "chef_name": "Chef Jane Smith",
+        "years_of_experience": 8,
+        "num_recipes": 30,
+        "country": "Canada",
+        "recipe_details": {
+            "recipe_name": "Maple Glazed Salmon",
+            "ingredients": [
+                "Salmon fillet",
+                "Maple syrup",
+                "Soy sauce",
+                "Garlic",
+                "Ginger"
+            ],
+            "instructions": "1. Preheat oven to 400°F. In a small bowl, mix maple syrup, soy sauce, garlic, and ginger. \n2. Place salmon fillet on a baking sheet and brush the maple glaze over the top. \n3. Bake for 12-15 minutes or until salmon is cooked through. Serve hot."
+        }
+    },
+    {
+       
+        "id": 3,
+        "chef_picture": "chef3.jpg",
+        "chef_name": "Chef Michael Johnson",
+        "years_of_experience": 12,
+        "num_recipes": 70,
+        "country": "France",
+        "recipe_details": {
+            "recipe_name": "Coq au Vin",
+            "ingredients": [
+                "Chicken pieces",
+                "Red wine",
+                "Bacon",
+                "Onion",
+                "Mushrooms"
+            ],
+            "instructions": "1. In a large skillet, cook bacon until crispy. Remove bacon and set aside. \n2. Brown chicken pieces in the bacon fat. Remove chicken and set aside. \n3. In the same skillet, cook onions and mushrooms until softened. \n4. Return chicken and bacon to the skillet, add red wine, and simmer for 30 minutes. Serve hot."
+        }
+    },
+    {
+       
+        "id": 4,
+        "chef_picture": "chef4.jpg",
+        "chef_name": "Chef Emily Davis",
+        "years_of_experience": 6,
+        "num_recipes": 20,
+        "country": "Australia",
+        "recipe_details": {
+            "recipe_name": "Lamb Chops with Rosemary",
+            "ingredients": [
+                "Lamb chops",
+                "Rosemary",
+                "Garlic",
+                "Olive oil",
+                "Salt",
+                "Pepper"
+            ],
+            "instructions": "1. Preheat grill or stovetop pan. Season lamb chops with salt,"
+        }
+    },
+    {
+        
+        "id": 5,
+        "chef_picture": "chef5.jpg",
+        "chef_name": "Chef Robert Lee",
+        "years_of_experience": 15,
+        "num_recipes": 90,
+        "country": "Italy",
+        "recipe_details": {
+            "recipe_name": "Margherita Pizza",
+            "ingredients": [
+                "Pizza dough",
+                "Tomato sauce",
+                "Mozzarella cheese",
+                "Fresh basil leaves",
+                "Olive oil",
+                "Salt"
+            ],
+            "instructions": "1. Preheat the oven to the highest temperature. \n2. Roll out the pizza dough and transfer it to a baking sheet. \n3. Spread tomato sauce evenly over the dough. \n4. Sprinkle mozzarella cheese over the sauce. \n5. Place fresh basil leaves on top. \n6. Drizzle olive oil and sprinkle salt. \n7. Bake for 10-12 minutes or until the crust is golden brown. Serve hot."
+        }
+    },
+    {
+       
+        "id":6,
+        "chef_picture": "chef6.jpg",
+        "chef_name": "Chef Maria Hernandez",
+        "years_of_experience": 9,
+        "num_recipes": 40,
+        "country": "Mexico",
+        "recipe_details": {
+            "recipe_name": "Chicken Enchiladas",
+            "ingredients": [
+                "Chicken breast",
+                "Tortillas",
+                "Tomato sauce",
+                "Onion",
+                "Cheese",
+                "Cilantro",
+                "Sour cream"
+            ],
+            "instructions": "1. Cook chicken breast and shred it. \n2. Warm tortillas in a skillet. \n3. Spread tomato sauce on each tortilla. \n4. Add shredded chicken, chopped onions, and cheese. \n5. Roll up the tortillas and place them in a baking dish. \n6. Pour more tomato sauce over the enchiladas and sprinkle cheese on top. \n7. Bake for 15-20 minutes at 350°F. \n8. Garnish with chopped cilantro and serve with sour cream."
+        }
+    }
+
+]
+    
