@@ -6,8 +6,8 @@
         "chef_name": " John Doe",
         "years_of_experience": 10,
         "num_recipes": 50,
-        "country": "United States",
-        "chif_bio":"Culinary expert specializing in French cuisine, creating unforgettable dining experiences with creativity and finesse.",
+       
+        "chef_bio":"Culinary expert specializing in French cuisine, creating unforgettable dining experiences with creativity and finesse.",
        
             "recipe_name1":"Grilled ",
             "recipe_name2":" Salmon with Lemon ",
@@ -31,8 +31,8 @@
         "chef_name": " Jane Smith",
         "years_of_experience": 8,
         "num_recipes": 30,
-        "country": "Canada",
-        "chif_bio":"Rising star in sustainable farm-to-table cooking, infusing traditional recipes with a modern twist.",
+      
+        "chef_bio":"Rising star in sustainable farm-to-table cooking, infusing traditional recipes with a modern twist.",
        
            
             "recipe_name1":"Maple",
@@ -56,8 +56,8 @@
         "chef_name": " Michael Johnson",
         "years_of_experience": 12,
         "num_recipes": 70,
-        "country": "France",
-        "chif_bio":"Asian fusion maestro, pushing boundaries with bold flavors and a harmonious blend of traditions",
+       
+        "chef_bio":"Asian fusion maestro, pushing boundaries with bold flavors and a harmonious blend of traditions",
         
            
           "recipe_name1":"Potato gem nachos",
@@ -81,8 +81,8 @@
         "chef_name": " Emily Davis",
         "years_of_experience": 6,
         "num_recipes": 20,
-        "country": "Australia",
-        "chif_bio":"Plant-based culinary prodigy, crafting exquisite vegetarian and vegan dishes that nourish both body and planet.",
+        
+        "chef_bio":"Plant-based culinary prodigy, crafting exquisite vegetarian and vegan dishes that nourish both body and planet.",
        
             "recipe_name1": "Lamb ",
             "recipe_name2": " Chops ",
@@ -106,8 +106,8 @@
         "chef_name": " Robert Lee",
         "years_of_experience": 15,
         "num_recipes": 90,
-        "country": "Italy",
-        "chif_bio":"Culinary visionary reimagining classic flavors with modern techniques, delighting diners with inventive creations.",
+        
+        "chef_bio":"Culinary visionary reimagining classic flavors with modern techniques, delighting diners with inventive creations.",
         
           
             "recipe_name1": "Margherita ",
@@ -132,8 +132,8 @@
         "chef_name": " Maria Hernandez",
         "years_of_experience": 9,
         "num_recipes": 40,
-        "country": "Mexico",
-        "chif_bio":" Pastry artist creating visually stunning and indulgent desserts, infusing art and nature into her whimsical creations.",
+       
+        "chef_bio":" Pastry artist creating visually stunning and indulgent desserts, infusing art and nature into her whimsical creations.",
        
          "recipe_name1": "butter chicken with rice ",
         "recipe_name2": "Mexican beef mince ",
