@@ -2,7 +2,7 @@
     {
         
         "id": 1,
-        "chef_picture": "https://i.ibb.co/Wfcq0hS/1.jpg",
+        "chef_picture": "https://i.ibb.co/1rkykCY/1.jpg",
         "chef_name": " John Doe",
         "years_of_experience": 10,
         "num_recipes": 50,
@@ -27,7 +27,7 @@
     {
        
         "id": 2,
-        "chef_picture": "https://i.ibb.co/wpPxwnN/2.jpg",
+        "chef_picture": "https://i.ibb.co/chgsmcR/2.jpg",
         "chef_name": " Jane Smith",
         "years_of_experience": 8,
         "num_recipes": 30,
@@ -52,7 +52,7 @@
     {
        
         "id": 3,
-        "chef_picture": "https://i.ibb.co/Dk7t5Tz/3.jpg",
+        "chef_picture": "https://i.ibb.co/vQmPXCn/3.jpg",
         "chef_name": " Michael Johnson",
         "years_of_experience": 12,
         "num_recipes": 70,
@@ -77,7 +77,7 @@
     {
        
         "id": 4,
-        "chef_picture": " https://i.ibb.co/qmwRMMq/4.jpg",
+        "chef_picture": " https://i.ibb.co/W0nFMKN/4.jpg",
         "chef_name": " Emily Davis",
         "years_of_experience": 6,
         "num_recipes": 20,
@@ -102,7 +102,7 @@
     {
         
         "id": 5,
-        "chef_picture": " https://i.ibb.co/Ht3LDPC/5.jpg",
+        "chef_picture": " https://i.ibb.co/pzjsRH6/5.jpg",
         "chef_name": " Robert Lee",
         "years_of_experience": 15,
         "num_recipes": 90,
@@ -128,7 +128,7 @@
     {
        
         "id":6,
-        "chef_picture": "https://i.ibb.co/kD8CfKY/06.jpg",
+        "chef_picture": "https://i.ibb.co/371Kmqx/06.jpg",
         "chef_name": " Maria Hernandez",
         "years_of_experience": 9,
         "num_recipes": 40,
